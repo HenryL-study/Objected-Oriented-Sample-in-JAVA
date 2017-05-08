@@ -1,0 +1,8 @@
+ IF C:\Users\Henry\Desktop\oo7 modified THEN record_detail
+IF C:\Users\Henry\Desktop\oo7 modified THEN record_summary
+IF C:\Users\Henry\Desktop\oo7 size_changed THEN record_detail
+IF C:\Users\Henry\Desktop\oo7 size_changed THEN record_summary
+IF C:\Users\Henry\Desktop\oo7\aa.txt path_changed THEN record_detail
+IF C:\Users\Henry\Desktop\oo7\aa.txt path_changed THEN record_summary
+IF C:\Users\Henry\Desktop\oo7\aa.txt renamed THEN recover
+IF C:\Users\Henry\Desktop\oo7\aa.txt size_changed THEN record_detail
